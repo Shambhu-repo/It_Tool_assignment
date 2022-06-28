@@ -1,0 +1,6 @@
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGdJLURROG83RjVadlFadS0zUFRTQTFHdzExd3xBQ3Jtc0trLUxiREUyY2E4SmVNdS1qZENGaGlPVTM0N3RZeHhzZnQ3QnFDRVpUSl9KNGFxOVY3WXpwVFg0Q0g1SVBTWjRpNXlraEZZc21CSjJpRnhuWG5WN3pRWFZBc05uZy1GSFhjbXhpVnpGSnUwdnRkcW9DUQ&q=https%3A%2F%2Fregexr.com
+What is regular expression ?
+Ans : A group of String object according to a particular pattern . 
+
+question: How many method java String has for regular expression ?
+Ans : 1. s.matches("regex") ,  s.split("regex") , s.replaec("regx","replacement") , s.replaceAll("regex","replacement")

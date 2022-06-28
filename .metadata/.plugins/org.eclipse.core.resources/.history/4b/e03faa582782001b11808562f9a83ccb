@@ -1,0 +1,63 @@
+package com.assignment_6;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+public class Driver {
+	
+	
+	public static void main(String[] args) {
+		StudentService ss = new StudentService();
+	Scanner scan = new Scanner(System.in);
+	//Student s=new Student();
+	//College c = new College();
+	
+	boolean quit=false;
+	
+	do {
+		System.out.println("******************************************************************************");
+	    System.out.println("********Enter <1> for Student's Form \nEnter <2> for Student List\n"
+	    		+ "Enter <3> for keeping Record for Collegen\nEnter <4> for List of College"
+	    		+ "\nEnter Quit to leave the page\n\n\nEnter Your Choice****");
+		int choice=scan.nextInt();
+
+	    switch(choice) {
+	    case 1:         ss.newStudent();
+break;
+	    case 2:
+	    	ss.printStudent();
+	    	break;
+	    
+	    case 3:
+	    	ss.collegeInfo();
+	    	break;
+	    	
+	    case 4:
+	    	ss.printCollege();
+	    	break;
+	    	
+	    	default :
+	    		System.out.println("Sorry follow instruction !! ");
+	    }
+	    
+		
+	}
+	while(!quit);
+	
+	
+	
+	
+	
+           //student= newStudent(s);
+//         printStudent();
+//           System.out.println(s);
+//           System.out.println("******************************************************************************");
+//           System.out.println("********Please Create College Information****");
+//
+//           c=collegeInfo(c);
+//           System.out.println(c);
+}
+	
+	
+}

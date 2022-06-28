@@ -1,0 +1,17 @@
+
+Ranjay Sir ,
+
+
+Question : Why only printBill method in main class's switch ?
+
+Ans : This printBill method calculates purchase of all type of customer
+ and does calculation and prints Bill by
+run time object creation(run time polymorphism) .
+
+If I enter  1 : then classicCustomer will get invoked and it will calculate discount and prints Bill
+for only classicCustomer .
+
+if i enter 2: it works for platinium only and so on ..
+
+i have implemented polymorphism through printBill() ;   method .
+

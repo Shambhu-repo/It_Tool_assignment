@@ -1,0 +1,7 @@
+1st : make an interface
+2nd: make a class having method to change first char of every word in uppercase
+3rd : every class will extends 2nd and implements 1st 
+
+
+
+

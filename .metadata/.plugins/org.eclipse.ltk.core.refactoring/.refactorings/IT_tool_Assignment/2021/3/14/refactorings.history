@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ArrayuniqueElement.java&apos; to &apos;IT_tool_Assignment/src/com.assignment_13&apos;&#x0D;&#x0A;- Original project: &apos;IT_tool_Assignment&apos;&#x0D;&#x0A;- Destination element: &apos;IT_tool_Assignment/src/com.assignment_13&apos;&#x0D;&#x0A;- Original element: &apos;com.assignment_13.ArrayuniqueElement.java&apos;" description="Copy compilation unit" destination="/src&lt;com.assignment_13" element1="/src&lt;com.assignment_13{ArrayuniqueElement.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1616953065604" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,27 @@
+content_assist_add_import=true
+content_assist_autoactivation=true
+content_assist_autoactivation_delay=0
+content_assist_autoactivation_triggers_java=.
+content_assist_autoactivation_triggers_javadoc=@\#
+content_assist_autoinsert=true
+content_assist_case_sensitivity=false
+content_assist_disable_completion_trigger_chars=false
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
+content_assist_favorite_static_members=org.junit.Assert.*;org.junit.Assume.*;org.junit.jupiter.api.Assertions.*;org.junit.jupiter.api.Assumptions.*;org.junit.jupiter.api.DynamicContainer.*;org.junit.jupiter.api.DynamicTest.*
+content_assist_fill_method_arguments=true
+content_assist_guess_method_arguments=true
+content_assist_insert_completion=false
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.assignment_9_.MasterInterface"><rhs name\="com.assignment_9_.MasterClass"/><rhs name\="com.assignment_9_.GoldenCustomer"/><rhs name\="com.assignment_9_.ClassicCustomer"/><rhs name\="com.assignment_9_.PlatiniumCustomer"/></lhs><lhs name\="com.assignment_9_.MasterClass"><rhs name\="com.assignment_9_.MasterClass"/><rhs name\="com.assignment_9_.GoldenCustomer"/><rhs name\="com.assignment_9_.ClassicCustomer"/><rhs name\="com.assignment_9_.PlatiniumCustomer"/></lhs><lhs name\="com.assignment_9_.GoldenCustomer"><rhs name\="com.assignment_9_.GoldenCustomer"/></lhs><lhs name\="com.assignment_9_.ClassicCustomer"><rhs name\="com.assignment_9_.ClassicCustomer"/></lhs><lhs name\="com.assignment_9_.PlatiniumCustomer"><rhs name\="com.assignment_9_.PlatiniumCustomer"/></lhs><lhs name\="com.assignment_9.PlatiniumInterface"><rhs name\="com.assignment_9.PlatiniumCustomer"/></lhs><lhs name\="com.assignment_9_a.ClassicCustomer"><rhs name\="com.assignment_9_a.ClassicCustomerIndependent"/></lhs><lhs name\="com.assignment_9_a.ClassicCustomerInterface"><rhs name\="com.assignment_9_a.ClassicCustomerIndependent"/><rhs name\="com.assignment_9_a.ClassicCustomer"/></lhs><lhs name\="com.assignment_9_a.ClassicCustomerIndependent"><rhs name\="com.assignment_9_a.ClassicCustomerIndependent"/></lhs><lhs name\="com.assignment_9_a.GoldCustomer"><rhs name\="com.assignment_9_a.GoldCustomerIndependent"/></lhs><lhs name\="com.assignment_9_a.GoldCustomerInterface"><rhs name\="com.assignment_9_a.GoldCustomerIndependent"/></lhs><lhs name\="com.assignment_9_a.GoldCustomerIndependent"><rhs name\="com.assignment_9_a.GoldCustomerIndependent"/></lhs><lhs name\="com.assignment_9_a.PlatiniumCustomer"><rhs name\="com.assignment_9_a.PlatiniumIndependent"/></lhs><lhs name\="com.assignment_9_a.PlatiniumInterface"><rhs name\="com.assignment_9_a.PlatiniumIndependent"/></lhs><lhs name\="com.assignment_9_a.PlatiniumIndependent"><rhs name\="com.assignment_9_a.PlatiniumIndependent"/></lhs><lhs name\="com.assignment_9_a.CustomerInterface"><rhs name\="com.assignment_9_a.PlatiniumCustomer"/><rhs name\="com.assignment_9_a.PlataniumDiscount"/><rhs name\="com.assignment_9_a.GoldCustomer"/><rhs name\="com.assignment_9_a.ClassicCustomer"/></lhs><lhs name\="com.assignment_9_a.GoldInterface"><rhs name\="com.assignment_9_a.GoldCustomer"/></lhs><lhs name\="java.io.Reader"><rhs name\="java.io.BufferedReader"/></lhs><lhs name\="java.lang.Readable"><rhs name\="java.io.BufferedReader"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.io.BufferedReader"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.io.BufferedReader"/></lhs><lhs name\="java.io.BufferedReader"><rhs name\="java.io.BufferedReader"/></lhs><lhs name\="com.assignment_16.ChangeToUpperCase"><rhs name\="com.assignment_16.ChangeToUpperCase"/></lhs><lhs name\="com.assignment_16.RecordInFile"><rhs name\="com.assignment_16.RecordInFile"/></lhs><lhs name\="com.assignment_16.EmployeeService"><rhs name\="com.assignment_16.EmployeeService"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.StringBuffer"/></lhs><lhs name\="java.lang.AbstractStringBuilder"><rhs name\="java.lang.StringBuffer"/></lhs><lhs name\="java.lang.Appendable"><rhs name\="java.lang.StringBuffer"/></lhs><lhs name\="com.assignment_16_FileHandling.HelperInterface"><rhs name\="com.assignment_16_FileHandling.TextClass"/></lhs><lhs name\="java.lang.Enum"><rhs name\="org.apache.pulsar.client.api.CompressionType"/></lhs></history>
+content_assist_number_of_computers=20
+content_assist_prefix_completion=false
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+content_assist_show_visible_proposals=true
+content_assist_sorter=org.eclipse.jdt.ui.RelevanceSorter
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=20
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
