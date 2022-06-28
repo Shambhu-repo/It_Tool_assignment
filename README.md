@@ -1,1 +1,1 @@
-# It_Tool_assignment
+This repo contains all basic java practice i have done . 
